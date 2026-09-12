@@ -31,7 +31,7 @@ create an application, open the **Bot** tab and copy the token.
 **2. Install**
 
 ```bash
-git clone https://github.com/YOUR-NAME/reaction-roles-bot.git
+git clone https://github.com/aepexbuilds/reaction-roles-bot.git
 cd reaction-roles-bot
 pip install -r requirements.txt
 ```
